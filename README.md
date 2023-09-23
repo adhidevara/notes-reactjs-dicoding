@@ -13,7 +13,7 @@ Sebelum Anda dapat menjalankan aplikasi ini, pastikan Anda telah menginstal pera
 
 1. Clone repositori ini ke dalam direktori lokal Anda:
 
-   git clone https://github.com/adhidevara/notes-app-reactjs-adv.git
+   git clone https://github.com/adhidevara/notes-app-reactjs-dicoding.git
 
 2. Masuk ke direktori proyek:
 
