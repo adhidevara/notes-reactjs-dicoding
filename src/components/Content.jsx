@@ -76,7 +76,7 @@ const Content = ({ notes, setNotes }) => {
 };
 
 Content.propTypes = {
-  notesAll: PropTypes.array.isRequired,
+  notes: PropTypes.array.isRequired,
   setNotes: PropTypes.func.isRequired,
 };
 
